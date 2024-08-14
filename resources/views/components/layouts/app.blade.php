@@ -8,7 +8,7 @@
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body class="font-sans antialiased">
+<body class="font-sans antialiased" data-theme="light">
  
     {{-- The navbar with `sticky` and `full-width` --}}
     <x-nav sticky full-width>
