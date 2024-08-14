@@ -5,4 +5,16 @@ configurado.
 
 Ambiente já configurado e instalado com:
 
-(... a ser complementado.)
+* Laravel Pint;
+* PHPMyAdmin;
+* Sail SSL;
+* Tradução do Laravel;
+* Livewire; 
+* LaraStan;
+* DebugBar;
+* LaraDumps;
+* AlpineJS;
+* Tailwind;
+* DaisyUI;
+* MaryUI;
+* Script Sail personalizado.
